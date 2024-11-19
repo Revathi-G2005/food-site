@@ -1,0 +1,642 @@
+.ORDER-PAGE {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .ORDER-PAGE .overlap-wrapper {
+    width: 402px;
+    height: 874px;
+  }
+  
+  .ORDER-PAGE .overlap {
+    position: relative;
+    height: 874px;
+  }
+  
+  .ORDER-PAGE .div {
+    position: absolute;
+    width: 402px;
+    height: 874px;
+    top: 0;
+    left: 0;
+  }
+  
+  .ORDER-PAGE .order-page {
+    height: 874px;
+  }
+  
+  .ORDER-PAGE .iphone-pro {
+    position: relative;
+    width: 402px;
+    height: 874px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .ORDER-PAGE .rectangle {
+    position: absolute;
+    width: 402px;
+    height: 823px;
+    top: 48px;
+    left: 0;
+    background-color: #040404;
+  }
+  
+  .ORDER-PAGE .rectangle-2 {
+    position: absolute;
+    width: 402px;
+    height: 823px;
+    top: 45px;
+    left: 0;
+    background-color: #040404;
+  }
+  
+  .ORDER-PAGE .text-wrapper {
+    position: absolute;
+    width: 200px;
+    top: 80px;
+    left: 32px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .p {
+    position: absolute;
+    width: 258px;
+    top: 140px;
+    left: 32px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .rectangle-3 {
+    position: absolute;
+    width: 378px;
+    height: 63px;
+    top: 178px;
+    left: 12px;
+    background-color: #3d3a3a;
+    border-radius: 90px;
+  }
+  
+  .ORDER-PAGE .text-wrapper-2 {
+    position: absolute;
+    width: 261px;
+    top: 190px;
+    left: 91px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #a19c9c;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .image {
+    position: absolute;
+    width: 30px;
+    height: 41px;
+    top: 188px;
+    left: 43px;
+    object-fit: cover;
+  }
+  
+  .ORDER-PAGE .rectangle-4 {
+    position: absolute;
+    width: 104px;
+    height: 59px;
+    top: 276px;
+    left: 9px;
+    background-color: #f2520d;
+    border-radius: 90px;
+  }
+  
+  .ORDER-PAGE .img {
+    position: absolute;
+    width: 129px;
+    height: 59px;
+    top: 276px;
+    left: 120px;
+  }
+  
+  .ORDER-PAGE .rectangle-5 {
+    position: absolute;
+    width: 128px;
+    height: 58px;
+    top: 276px;
+    left: 260px;
+    background-color: #5d2402;
+    border-radius: 90px;
+  }
+  .ORDER-PAGE .rectangle-51 {
+    position: absolute;
+    width: 128px;
+    height: 58px;
+    top: 276px;
+    left: 120px;
+    background-color: #5d2402;
+    border-radius: 90px;
+  }
+  
+  .ORDER-PAGE .text-wrapper-3 {
+    position: absolute;
+    width: 66px;
+    top: 289px;
+    left: 53px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .image-2 {
+    width: 38px;
+    height: 38px;
+    top: 286px;
+    left: 13px;
+    position: absolute;
+    object-fit: cover;
+    border-radius:100% ;
+  }
+  
+  .ORDER-PAGE .image-3 {
+    width: 38px;
+    height: 38px;
+    top: 286px;
+    left: 264px;
+    position: absolute;
+    object-fit: cover;
+    border-radius:100% ;
+  }
+  
+  .ORDER-PAGE .image-4 {
+    width: 38px;
+    height: 38px;
+    top: 286px;
+    left: 128px;
+    position: absolute;
+    object-fit: cover;
+    border-radius:100% ;
+  }
+  
+  .ORDER-PAGE .text-wrapper-4 {
+    position: absolute;
+    width: 76px;
+    top: 289px;
+    left: 167px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .text-wrapper-5 {
+    position: absolute;
+    width: 80px;
+    top: 289px;
+    left: 302px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .rectangle-6 {
+    position: absolute;
+    width: 402px;
+    height: 54px;
+    top: 820px;
+    left: 0;
+    background-color: #1b1a1a;
+  }
+  
+  .ORDER-PAGE .rectangle-7 {
+    position: absolute;
+    width: 160px;
+    height: 171px;
+    top: 622px;
+    left: 25px;
+    background-color: #3d3a3a;
+    border-radius: 20px;
+    
+  }
+  
+  .ORDER-PAGE .rectangle-8 {
+    position: absolute;
+    width: 160px;
+    height: 171px;
+    top: 622px;
+    left: 203px;
+    background-color: #3d3a3a;
+    border-radius: 20px;
+  }
+  
+  .ORDER-PAGE .rectangle-9 {
+    position: absolute;
+    width: 160px;
+    height: 171px;
+    top: 395px;
+    left: 203px;
+    background-color: #3d3a3a;
+    border-radius: 20px;
+  }
+  
+  .ORDER-PAGE .rectangle-10 {
+    position: absolute;
+    width: 160px;
+    height: 171px;
+    top: 395px;
+    left: 25px;
+    background-color: #3d3a3a;
+    border-radius: 20px;
+  }
+  
+  .ORDER-PAGE .image-5 {
+    width: 110px;
+    height: 99px;
+    top: 338px;
+    left: 51px;
+    position: absolute;
+    object-fit: cover;
+    border-radius: 200%; 
+  }
+  
+  .ORDER-PAGE .image-6 {
+    width: 110px;
+    height: 99px;
+    top: 338px;
+    left: 228px;
+    position: absolute;
+    object-fit: cover;
+    border-radius: 200%;  
+  }
+  
+  .ORDER-PAGE .image-7 {
+    width: 110px;
+    height: 99px;
+    top: 576px;
+    left: 50px;
+    position: absolute;
+    object-fit: cover;
+    border-radius: 200%; 
+  }
+  
+  .ORDER-PAGE .image-8 {
+    width: 110px;
+    height: 99px;
+    top: 582px;
+    left: 228px;
+    position: absolute;
+    object-fit: cover;
+    border-radius: 200%; 
+  }
+  
+  .ORDER-PAGE .text-wrapper-6 {
+    position: absolute;
+    width: 130px;
+    top: 441px;
+    left: 43px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .text-wrapper-7 {
+    position: absolute;
+    width: 130px;
+    top: 441px;
+    left: 225px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .text-wrapper-8 {
+    position: absolute;
+    width: 130px;
+    top: 672px;
+    left: 237px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .text-wrapper-9 {
+    position: absolute;
+    width: 130px;
+    top: 673px;
+    left: 52px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .text-wrapper-10 {
+    position: absolute;
+    width: 123px;
+    top: 470px;
+    left: 44px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #afadad;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .veg-pizza {
+    position: absolute;
+    width: 123px;
+    top: 698px;
+    left: 73px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #afadad;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .text-wrapper-11 {
+    position: absolute;
+    width: 123px;
+    top: 470px;
+    left: 225px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #afadad;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .text-wrapper-12 {
+    position: absolute;
+    width: 123px;
+    top: 700px;
+    left: 249px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #afadad;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .line {
+    width: 160px;
+    top: 502px;
+    left: 25px;
+    position: absolute;
+    height: 2px;
+    object-fit: cover;
+  }
+  
+  .ORDER-PAGE .line-2 {
+    width: 160px;
+    top: 734px;
+    left: 26px;
+    position: absolute;
+    height: 2px;
+    object-fit: cover;
+  }
+  
+  .ORDER-PAGE .line-3 {
+    width: 158px;
+    top: 734px;
+    left: 205px;
+    position: absolute;
+    height: 2px;
+    object-fit: cover;
+  }
+  
+  .ORDER-PAGE .line-4 {
+    width: 160px;
+    top: 502px;
+    left: 203px;
+    position: absolute;
+    height: 2px;
+    object-fit: cover;
+  }
+  
+  .ORDER-PAGE .text-wrapper-13 {
+    position: absolute;
+    width: 70px;
+    top: 512px;
+    left: 35px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .text-wrapper-14 {
+    top: 741px;
+    left: 35px;
+    position: absolute;
+    width: 70px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .text-wrapper-15 {
+    top: 740px;
+    left: 217px;
+    position: absolute;
+    width: 70px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .text-wrapper-16 {
+    top: 511px;
+    left: 215px;
+    position: absolute;
+    width: 70px;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .ORDER-PAGE .ellipse {
+    top: 515px;
+    left: 141px;
+    position: absolute;
+    width: 30px;
+    height: 29px;
+    background-color: #d9d9d9;
+    border-radius: 15px / 14.5px;
+  }
+  
+  .ORDER-PAGE .ellipse-2 {
+    top: 515px;
+    left: 315px;
+    position: absolute;
+    width: 30px;
+    height: 29px;
+    background-color: #d9d9d9;
+    border-radius: 15px / 14.5px;
+  }
+  
+  .ORDER-PAGE .ellipse-3 {
+    top: 744px;
+    left: 313px;
+    position: absolute;
+    width: 30px;
+    height: 29px;
+    background-color: #d9d9d9;
+    border-radius: 15px / 14.5px;
+  }
+  
+  .ORDER-PAGE .image-9 {
+    width: 30px;
+    height: 29px;
+    top: 748px;
+    left: 141px;
+    position: absolute;
+    object-fit: cover;
+    border-radius:100% ;
+  }
+  
+  .ORDER-PAGE .image-10 {
+    width: 30px;
+    height: 29px;
+    top: 515px;
+    left: 141px;
+    position: absolute;
+    object-fit: cover;
+    border-radius:100% ;
+  }
+  
+  .ORDER-PAGE .image-11 {
+    width: 30px;
+    height: 29px;
+    top: 515px;
+    left: 315px;
+    position: absolute;
+    object-fit: cover;
+    border-radius:100% ;
+  }
+  
+  .ORDER-PAGE .image-12 {
+    width: 30px;
+    height: 29px;
+    top: 744px;
+    left: 313px;
+    position: absolute;
+    object-fit: cover;
+    border-radius:100% ;
+  }
+  .ORDER-PAGE .image-9:hover,
+.ORDER-PAGE .image-10:hover,
+.ORDER-PAGE .image-11:hover,
+.ORDER-PAGE .image-12:hover {
+  transform: scale(1.1); /* Slightly enlarges the image */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Adds a shadow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth effect */
+}
+
+  
+  .ORDER-PAGE .image-13 {
+    width: 30px;
+    height: 30px;
+    top: 829px;
+    left: 325px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .ORDER-PAGE .image-14 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 831px;
+    left: 222px;
+    object-fit: cover;
+  }
+  
+  .ORDER-PAGE .image-15 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 831px;
+    left: 128px;
+    object-fit: cover;
+  }
+  
+  .ORDER-PAGE .image-16 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 826px;
+    left: 35px;
+    object-fit: cover;
+  }
+  
+  .ORDER-PAGE .image-17 {
+    height: 50px;
+    position: absolute;
+    width: 402px;
+    top: 0;
+    left: 0;
+  }
+  
+  .ORDER-PAGE .image-18 {
+    width: 30px;
+    height: 33px;
+    top: 342px;
+    left: -148px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .ORDER-PAGE .image-19 {
+    height: 58px;
+    position: absolute;
+    width: 402px;
+    top: 0;
+    left: 0;
+  }
+  
